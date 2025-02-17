@@ -58,7 +58,7 @@ This project is **open-source** and available under the **MIT License**.
 ---
 
 ## 📬 Contact
-📧 **Email:** daksh@example.com  
+📧 **Email:** dakshpanchal0605@gmail.com  
 🔗 **GitHub:** [Daksh-06](https://github.com/Daksh-06)  
 🌍 **Project Link:** [Tic-Tac-Toe Repo](https://github.com/Daksh-06/Tic-Tac-Toe)
 
